@@ -82,7 +82,7 @@ DATABASES = {
         'ENGINE': 'mssql',
         'NAME': 'db_django_5',
         'USER': 'sa',
-        'PASSWORD': 'darioahakuna2#',
+        'PASSWORD': 'dariohakuna2#',
         'HOST': 'localhost',
         'PORT': '',
 
